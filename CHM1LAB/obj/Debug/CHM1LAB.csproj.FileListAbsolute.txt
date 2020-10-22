@@ -1,0 +1,7 @@
+C:\Users\Семья\source\repos\CHM1LAB\CHM1LAB\bin\Debug\CHM1LAB.exe.config
+C:\Users\Семья\source\repos\CHM1LAB\CHM1LAB\bin\Debug\CHM1LAB.exe
+C:\Users\Семья\source\repos\CHM1LAB\CHM1LAB\bin\Debug\CHM1LAB.pdb
+C:\Users\Семья\source\repos\CHM1LAB\CHM1LAB\obj\Debug\CHM1LAB.csprojAssemblyReference.cache
+C:\Users\Семья\source\repos\CHM1LAB\CHM1LAB\obj\Debug\CHM1LAB.csproj.CoreCompileInputs.cache
+C:\Users\Семья\source\repos\CHM1LAB\CHM1LAB\obj\Debug\CHM1LAB.exe
+C:\Users\Семья\source\repos\CHM1LAB\CHM1LAB\obj\Debug\CHM1LAB.pdb
